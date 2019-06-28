@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOP.Plugins.Account", "UOP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOP.Plugins.Case", "UOP.Plugins.Case\UOP.Plugins.Case.csproj", "{DE9C2E4D-3EED-4B20-BD15-17CCA5FE4662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UOP.Workflows.Account", "UOP.Workflows.Account\UOP.Workflows.Account.csproj", "{4FB29628-D62C-4A38-8C91-B715854C08F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DE9C2E4D-3EED-4B20-BD15-17CCA5FE4662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE9C2E4D-3EED-4B20-BD15-17CCA5FE4662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE9C2E4D-3EED-4B20-BD15-17CCA5FE4662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB29628-D62C-4A38-8C91-B715854C08F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB29628-D62C-4A38-8C91-B715854C08F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB29628-D62C-4A38-8C91-B715854C08F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB29628-D62C-4A38-8C91-B715854C08F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

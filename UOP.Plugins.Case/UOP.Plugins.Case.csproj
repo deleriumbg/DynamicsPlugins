@@ -69,6 +69,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasePlugin.cs" />
+    <Compile Include="ILocalPluginContext.cs" />
+    <Compile Include="LocalPluginContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OnCaseChangeEmailStatusConfirmed_OnPostUpdateEmailAndResolveCase.cs" />
     <Compile Include="OnCreateEmailChangeRequestCase_SendEmailToAccountPreviousEmail.cs" />

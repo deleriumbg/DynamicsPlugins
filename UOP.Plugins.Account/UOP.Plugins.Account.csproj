@@ -59,6 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasePlugin.cs" />
+    <Compile Include="ILocalPluginContext.cs" />
+    <Compile Include="LocalPluginContext.cs" />
     <Compile Include="OnUpdateAccountFirstLastName_OnPostUpdateSetCustomFullName.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OnUpdateAccountEmail_CreateEmailChangeRequestCase.cs" />
